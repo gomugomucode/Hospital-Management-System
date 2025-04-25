@@ -22,7 +22,7 @@ A Java Swing desktop application for managing hospital operations, including pat
 ### 1. Clone or Download the Project
 - Clone the repository or download the project files to your local machine:
   ```bash
-  git clone <repository-url> ~/Hospital-Management-System
+  git clone https://github.com/anup0206/Hospital-Management-System ~/Hospital-Management-System
 
 2. Install Java
   ```bash
