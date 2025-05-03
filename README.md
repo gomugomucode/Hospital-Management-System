@@ -138,15 +138,25 @@ Exit: Closes the application and database connection.
 #Project Structure
 
 Hospital-Management-System/
+
 ├── lib/
+
 │   └── mysql-connector-j-9.3.0.jar
+
 ├── src/
+
 │   └── HospitalManagementSystem/
+
 │       ├── Doctor.java
+
 │       ├── Patient.java
+
 │       ├── HospitalManagementSystem.java
+
 ├── Hospital-Management-System.iml
+
 └── README.md
+
 
 Troubleshooting
 
