@@ -161,8 +161,10 @@ Hospital-Management-System/
 Troubleshooting
 
 GUI Doesn’t Display:
-Ensure you’re in a graphical environment (XDG_SESSION_TYPE is x11 or wayland).
-Test with a minimal Swing program:import javax.swing.*;
+Ensure you’re in a graphical environment
+(XDG_SESSION_TYPE is x11 or wayland).
+Test with a minimal Swing program
+:import javax.swing.*;
 public class TestFrame {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
